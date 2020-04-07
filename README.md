@@ -1,2 +1,3 @@
-# ios-local-authenticator
-Local Authenticator Helper
+# Authenticator
+
+A description of this package.
